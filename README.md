@@ -1,4 +1,4 @@
-# Untrusted Web Content Access to SHAREit’s Privileged JavaScript Bridge Enables Sensitive-Data Disclosure and Arbitrary Intent Dispatch
+# SHAREit WebView JavaScript Bridge Allows Attacker-Controlled Pages to Leak Tokens and Execute Intents in Application Context | 1-Click
 
 | Field | Value |
 |---|---|
