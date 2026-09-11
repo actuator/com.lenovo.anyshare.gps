@@ -5,7 +5,6 @@
 | Package | `com.lenovo.anyshare.gps` |
 | Runtime tested | `6.27.38_ww` (`4062738`) |
 | Release channel | `GOOGLEPLAY` |
-| Status | Reproduced |
 | Severity | High â€” CVSS 3.1: **7.1** |
 | Vector | `CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:H/A:N` |
 | Researcher | Edward 'Actuator' Warren |
@@ -107,4 +106,3 @@ The minimized PoC launches Calculator. The underlying primitive accepts an Inten
 - Remove GAID and session material from web-accessible actions.
 - Replace generic action/Intent dispatch with narrowly scoped, allowlisted operations.
 - Reject explicit components, non-exported targets and arbitrary Intent URI fields.
-- Invalidate any tokens exposed during testing.
