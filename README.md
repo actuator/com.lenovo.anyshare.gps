@@ -1,4 +1,4 @@
-# SHAREit Android exposes privileged native actions to attacker-controlled web content
+# Untrusted Web Content Access to SHAREit’s Privileged JavaScript Bridge Enables Sensitive-Data Disclosure and Arbitrary Intent Dispatch
 
 | Field | Value |
 |---|---|
