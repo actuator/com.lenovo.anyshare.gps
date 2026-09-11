@@ -1,4 +1,5 @@
-# SHAREit WebView JavaScript Bridge Allows Attacker-Controlled Pages to Leak Tokens and Execute Intents in Application Context | 1-Click
+# SHAREit WebView JavaScript Bridge Allows Attacker-Controlled Pages to Leak Tokens and Execute Intents in Application Context 
+# 1-Click
 
 | Field | Value |
 |---|---|
