@@ -10,6 +10,11 @@
 | Vector | `CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:H/A:N` |
 | Researcher | Edward 'Actuator' Warren |
 
+
+
+<img width="2311" height="1407" alt="SEND_READ_SMS_POC" src="https://github.com/actuator/com.lenovo.anyshare.gps/blob/main/com.lenovo.anyshare.gps-6.27.38_ww-1click.gif"/>
+
+
 ## Summary
 
 SHAREit can load an attacker-controlled HTTPS page in an application WebView through its command-21 deep-link route. The WebView exposes `window.shareitBridge`, allowing arbitrary page JavaScript to retrieve device and session information and dispatch native Android Intents.
