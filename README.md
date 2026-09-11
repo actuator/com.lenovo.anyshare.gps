@@ -1,5 +1,4 @@
 # SHAREit WebView JavaScript Bridge Allows Attacker-Controlled Pages to Leak Tokens and Execute Intents in Application Context 
-# 1-Click
 
 | Field | Value |
 |---|---|
@@ -11,6 +10,7 @@
 | Researcher | Edward 'Actuator' Warren |
 
 
+1-Click
 
 <img width="2311" height="1407" alt="SEND_READ_SMS_POC" src="https://github.com/actuator/com.lenovo.anyshare.gps/blob/main/com.lenovo.anyshare.gps-6.27.38_ww-1click.gif"/>
 
